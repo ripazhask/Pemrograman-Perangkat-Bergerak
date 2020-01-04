@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MoveActivityforIntent">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_horizontal_layout"
+        android:layout_marginTop="@dimen/activity_vertical_layout"
+        android:layout_marginRight="@dimen/activity_horizontal_layout"
+        android:layout_marginBottom="@dimen/activity_vertical_layout"
+        android:text="Halaman Dua" />
+
+    <TextView
+        android:layout_width="379dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_vertical_layout"
+        android:layout_marginRight="@dimen/activity_vertical_layout"
+        android:text="CEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEB!"
+        android:textAlignment="center"
+        android:textSize="48dp"
+        android:textStyle="bold"/>
+</LinearLayout>
